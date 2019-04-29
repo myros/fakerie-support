@@ -1,3 +1,3 @@
 # fakerie-support
 
-[https://www.fakerie.com] Fakerie
+[https://www.fakerie.com](Fakerie)
